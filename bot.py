@@ -198,4 +198,4 @@ async def beam_error(ctx, error):
         await ctx.send(f"🕒 Please wait {error.retry_after:.1f} seconds before using this command again.")
 
 # --- Run Bot ---
-bot.run("MTQ4OTU2MDA4MTE4Mjc1MjkzOA.GC9NZH.24uOd0InMNy08jWI5TfrBLmjnk9kfq2_cwBetw")
+bot.run("YOUR-DISCORD-BOT-TOKEN")
